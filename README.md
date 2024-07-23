@@ -1,5 +1,5 @@
-## Sales_And_Finance_Analytics_of_AtliQ_Company
 
+<h2 align="center">Sales_And_Finance_Analytics_of_AtliQ_Company</h2>
 
 ## Sales Report:
 
