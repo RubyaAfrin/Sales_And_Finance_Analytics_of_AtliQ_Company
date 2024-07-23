@@ -1,12 +1,12 @@
 
-<h2 align="center">##Sales and Finance Analytics of AtliQ Company##</h2>
+
 <div style="background-color: lightgray; padding: 10px; border-radius: 5px;">
   <span style="color: blue;">This is blue text inside a styled block.</span>
   <br>
   <span style="color: green;">This is green text inside the same block.</span>
 </div>
 ## Sales Report:
-
+<h2 align="center">##Sales and Finance Analytics of AtliQ Company##</h2>
 **Project Goals:**
 
 1. **Customer Performance Report:** Created a detailed [report](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/Customer%20Performance%20Report%20of%20AtliQ%20Hardwares.pdf) to assess customer performance.
