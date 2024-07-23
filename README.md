@@ -5,7 +5,7 @@
 
 **Project Goals:**
 
-1. **Customer Performance Report:** Created a detailed [report](https://github.com/srinathankolla/Excel-Sales-And-Finance-Analytics/blob/main/Customer%20Performance%20Report%20of%20AtliQ%20Hardwares.pdf) to assess customer performance.
+1. **Customer Performance Report:** Created a detailed [report](https://github.com/RubyaAfrin/Sales_And_Finance_Analytics_of_AtliQ_Company/blob/main/reports/Customer%20Performance%20Report%20of%20AtliQ%20Hardwares.pdf) to assess customer performance.
 2. **Market Performance Comparison:** Conducted a thorough analysis comparing [market performance](https://github.com/RubyaAfrin/Sales_And_Finance_Analytics_of_AtliQ_Company/blob/main/reports/P%26L%20Statement%20By%20Markets.pdf) against sales targets.
 
 **Sales Analytics Purpose:** Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
