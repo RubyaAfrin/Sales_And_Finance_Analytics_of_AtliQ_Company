@@ -1,8 +1,4 @@
-## Sales Report:
 
-<span style="color:blue">This is blue text inside a styled block.</span><br>
-<span style="color:green">This is green text inside the same block.</span>
-## Sales Report:
 <h2 align="center">##Sales and Finance Analytics of AtliQ Company##</h2>
 **Project Goals:**
 
