@@ -1,6 +1,10 @@
 
 <h2 align="center">##Sales and Finance Analytics of AtliQ Company##</h2>
-
+<div style="background-color: lightgray; padding: 10px; border-radius: 5px;">
+  <span style="color: blue;">This is blue text inside a styled block.</span>
+  <br>
+  <span style="color: green;">This is green text inside the same block.</span>
+</div>
 ## Sales Report:
 
 **Project Goals:**
