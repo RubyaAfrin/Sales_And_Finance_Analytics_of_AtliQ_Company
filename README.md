@@ -1,9 +1,10 @@
 
 <h1 align="center">Sales and Finance Analytics of AtliQ Company</h1>
-**Developed comprehensive sales and finance reports of Atliq Company to assess customer performance against company's target, evaluate financial outcomes, and support strategic decision-making.**
 
+
+
+**Developed comprehensive sales and finance reports of Atliq Company to assess customer performance against company's target, evaluate financial outcomes, and support strategic decision-making.**
 ## Sales Report:
-**Project Goals:**
 
 1. **Customer Performance Report:** Created a detailed [Customer performance report](https://github.com/RubyaAfrin/Sales_And_Finance_Analytics_of_AtliQ_Company/blob/main/reports/Customer%20Performance%20Report%20of%20AtliQ%20Hardwares.pdf) to provide net sales performance of each customer across the years.
 2. **Market Performance Comparison:** Conducted a thorough analysis comparing [market performance against sales targets](https://github.com/RubyaAfrin/Sales_And_Finance_Analytics_of_AtliQ_Company/blob/main/reports/Market%20Performance%20vs%20Target%20Report%20of%20AtliQ%20Hardwares.pdf) to enable stakeholders to assess the customer performance and compare it to set targets..
@@ -15,8 +16,6 @@
 **Reports' Role:** Determining effective customer discounts, facilitating negotiations, and identifying expansion opportunities in potential markets.
 
 ## Finance Report:
-
-**Project Goals:**
 
 1. **Profit and Loss (P&L) Reports:** Created [P&L reports by fiscal years](https://github.com/RubyaAfrin/Sales_And_Finance_Analytics_of_AtliQ_Company/blob/main/reports/P%26L%20Statement%20By%20Fiscal%20Years.pdf) and [P&L reports by fiscal months](https://github.com/RubyaAfrin/Sales_And_Finance_Analytics_of_AtliQ_Company/blob/main/reports/P%26L%20Statement%20By%20Fiscal%20Months.pdf) to evaluate financial performance over specific periods, track revenue and expenses, identify trends, support budgeting and forecasting, and make informed strategic decisions.
 2. **P&L Reports by Markets:** Generated [P&L reports categorized by markets](https://github.com/RubyaAfrin/Sales_And_Finance_Analytics_of_AtliQ_Company/blob/main/reports/P%26L%20Statement%20By%20Markets.pdf) to help the company for understanding financial performance across different segments, identify which markets are most profitable, and pinpoint areas for improvement. 
