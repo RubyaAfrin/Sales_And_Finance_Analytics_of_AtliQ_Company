@@ -26,7 +26,7 @@
 
 **Reports' Role:** Aligning financial planning with strategic objectives and instilling confidence in the organization's financial outlook.
 
-## Technical & Soft Skills:
+## Technical Skills:
 
 - Proficient in ETL methodology (Extract, Transform, Load).
 - Skillful in creating date tables using Power Query.
