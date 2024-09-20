@@ -2,7 +2,7 @@
 <h1 align="center">Sales and Finance Analytics of AtliQ Company</h1>
 
 ## Sales Report:
-
+Developed comprehensive sales and finance reports of Atliq Company to assess customer performance against company's target, evaluate financial outcomes, and support strategic decision-making.
 **Project Goals:**
 
 1. **Customer Performance Report:** Created a detailed [Customer performance report](https://github.com/RubyaAfrin/Sales_And_Finance_Analytics_of_AtliQ_Company/blob/main/reports/Customer%20Performance%20Report%20of%20AtliQ%20Hardwares.pdf) to provide net sales performance of each customer across the years.
