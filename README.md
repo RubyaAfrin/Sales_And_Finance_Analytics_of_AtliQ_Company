@@ -1,6 +1,6 @@
 
 <h1 align="center">Sales and Finance Analytics of AtliQ Company</h1>
-Developed comprehensive sales and finance reports of Atliq Company to assess customer performance against company's target, evaluate financial outcomes, and support strategic decision-making.
+**Developed comprehensive sales and finance reports of Atliq Company to assess customer performance against company's target, evaluate financial outcomes, and support strategic decision-making.**
 
 ## Sales Report:
 **Project Goals:**
