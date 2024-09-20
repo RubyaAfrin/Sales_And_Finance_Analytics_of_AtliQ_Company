@@ -6,7 +6,7 @@
 **Project Goals:**
 
 1. **Customer Performance Report:** Created a detailed [Customer performance report](https://github.com/RubyaAfrin/Sales_And_Finance_Analytics_of_AtliQ_Company/blob/main/reports/Customer%20Performance%20Report%20of%20AtliQ%20Hardwares.pdf) to provide net sales performance of each customer across the years.
-2. **Market Performance Comparison:** Conducted a thorough analysis comparing [market performance against sales targets](https://github.com/RubyaAfrin/Sales_And_Finance_Analytics_of_AtliQ_Company/blob/main/reports/Market%20Performance%20vs%20Target%20Report%20of%20AtliQ%20Hardwares.pdf) .
+2. **Market Performance Comparison:** Conducted a thorough analysis comparing [market performance against sales targets](https://github.com/RubyaAfrin/Sales_And_Finance_Analytics_of_AtliQ_Company/blob/main/reports/Market%20Performance%20vs%20Target%20Report%20of%20AtliQ%20Hardwares.pdf) to enable stakeholders to assess the customer performance and compare it to set targets..
 
 **Sales Analytics Purpose:** Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
 
